@@ -136,6 +136,6 @@
 
 <ul>
   <li>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/YOUR-LINKEDIN">linkedin.com/in/YOUR-LINKEDIN</a></li>
-  <li>🌐 <strong>Portfolio:</strong> <a href="https://your-portfolio.com">your-portfolio.com</a></li>
-  <li>📫 <strong>Email:</strong> <a href="mailto:yourmail@example.com">yourmail@example.com</a></li>
+  <li>🌐 <strong>Portfolio:</strong> <a href="https://olivierlowe.com">olivierlowe.com</a></li>
+  <li>📫 <strong>Email:</strong> <a href="mailto:olivierentwicklung@gmail.com">Send Me a message</a></li>
 </ul>
