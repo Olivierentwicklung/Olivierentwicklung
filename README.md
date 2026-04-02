@@ -135,7 +135,7 @@
 <h2>🔹 Contact / Links</h2>
 
 <ul>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/olivier-lowe-04b026284/"</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/olivier-lowe-04b026284/"></a></li>
   <li>🌐 <strong>Portfolio:</strong> <a href="https://olivierlowe.com">olivierlowe.com</a></li>
   <li>📫 <strong>Email:</strong> <a href="mailto:olivierentwicklung@gmail.com">Send Me a message</a></li>
 </ul>
