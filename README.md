@@ -3,7 +3,7 @@
   <h1>Hi, I'm Olivier 👋</h1>
 
   <h2 style="font-size:32px; margin-bottom: 10px;">
-    💻 Full Stack Developer | 🚀 Building scalable web apps
+    💻 Full Stack Architect & Developer | 🚀 Building scalable web apps
   </h2>
 
   <img
