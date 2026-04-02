@@ -18,7 +18,9 @@
   </p>
 
   <p>
+    <strong>
     My focus is to find simple ways to make complex things practical, elegant, and enjoyable for users.
+    </strong>
   </p>
 
 </div>
