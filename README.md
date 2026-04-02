@@ -17,7 +17,7 @@
     I've been passionate about programming since a young age, and I love making people's lives easier and more beautiful through web development.
   </p>
 
- <h3 style="color:Tomato;">Hello World</h3>
+ <h3 style="color:green;"> My focus is to find simple ways to make complex things practical, elegant, and enjoyable for users.</h3>
  
 </div>
 
