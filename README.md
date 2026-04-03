@@ -108,6 +108,10 @@
       <img src="https://img.shields.io/badge/DDD-111111?style=for-the-badge" height="55" alt="DDD" /><br />
       <sub>Domain-Driven Design</sub>
     </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Nx-3178C6?style=for-the-badge&logo=nx&logoColor=white" height="55" alt="Nx" height="55"  /><br />
+      <sub>Nx Mono repository</sub>
+    </td>
   </tr>
 </table>
 
