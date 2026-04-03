@@ -3,6 +3,7 @@
   <h1>Hi, I'm Olivier 👋</h1>
 
   <h2 style="font-size:32px; margin-bottom: 10px;">
+   <span align="center"> A passionate about</span> <br/><br/>
     💻 Full Stack Architect & Developer | 🚀 Building scalable web apps
   </h2>
 
@@ -36,9 +37,19 @@
 <ul>
   <li>HS Pforzheim</li>
   <li>Data Analyse Pforzheim</li>
-  <li>HCM Stuttgart</li>
-  <li>Freenet Büdelsdorf</li>
+  <li>HCM </li>
+  <li>Freenet DLS Gmbh</li>
   <li>Doctor Tobit Remote</li>
+</ul>
+
+<h3>Hobbies</h3>
+
+<ul>
+  <li>Programing</li>
+  <li>Fitness</li>
+  <li>Cook</li>
+  <li>Read</li>
+  <li>Dance</li>
 </ul>
 
 ---
@@ -46,45 +57,266 @@
 <h2>🔹 Current Skills / Tech Stack</h2>
 
 <h3>🏛️ Architecture</h3>
-<p>
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-000000?style=for-the-badge" alt="DDD badge" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/DDD-111111?style=for-the-badge" height="55" alt="DDD" /><br />
+      <sub>Domain-Driven Design</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>🎨 Programming Languages</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="55" alt="JavaScript" /><br />
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="55" alt="TypeScript" /><br />
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="55" alt="Python" /><br />
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
 
 <h3>🎨 Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/TDD-000000?style=for-the-badge" alt="TDD badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind badge" />
-  <img src="https://img.shields.io/badge/PrimeNG-v21-DD0031?style=for-the-badge" alt="PrimeNG badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge" />
-  <img src="https://img.shields.io/badge/GraphQL%20Client-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL badge" />
-  <img src="https://img.shields.io/badge/Zod-v4-3E67B1?style=for-the-badge" alt="Zod badge" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TDD-111111?style=for-the-badge" height="55" alt="TDD" /><br />
+      <sub>TDD</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="55" alt="HTML5" /><br />
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="55" alt="CSS3" /><br />
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="55" alt="Sass" /><br />
+      <sub>Sass</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="55" alt="Tailwind CSS" /><br />
+      <sub>Tailwind CSS v4</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge" height="55" alt="PrimeNG" /><br />
+      <sub>PrimeNG v21</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="55" alt="Angular" /><br />
+      <sub>Angular v21</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="55" alt="GraphQL Client" /><br />
+      <sub>GraphQL Client</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" height="55" alt="Zod" /><br />
+      <sub>Zod v4</sub>
+    </td>
+  </tr>
+</table>
 
 <h3>⚙️ Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/TDD-000000?style=for-the-badge" alt="TDD badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django badge" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API badge" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman badge" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TDD-111111?style=for-the-badge" height="55" alt="TDD" /><br />
+      <sub>TDD</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="55" alt="Django" /><br />
+      <sub>Django</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge" height="55" alt="REST API" /><br />
+      <sub>REST API</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="55" alt="GraphQL" /><br />
+      <sub>GraphQL</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="55" alt="Postman" /><br />
+      <sub>Postman</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>📱 Mobile App Development</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="55" alt="Ionic" /><br />
+      <sub>Ionic</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>☁️ Backend as a Service (BaaS)</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="55" alt="Firebase" /><br />
+      <sub>Firebase</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>🧪 Testing</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TDD-111111?style=for-the-badge" height="55" alt="TDD" /><br />
+      <sub>TDD</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="55" alt="Jest" /><br />
+      <sub>Jest</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="55" alt="Vitest" /><br />
+      <sub>Vitest</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="55" alt="Pytest" /><br />
+      <sub>Pytest</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" height="55" alt="Cypress" /><br />
+      <sub>Cypress</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>🗄️ Database</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="55" alt="PostgreSQL" /><br />
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="55" alt="SQLite" /><br />
+      <sub>SQLite</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="55" alt="MySQL" /><br />
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="55" alt="MongoDB" /><br />
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="55" alt="Redis" /><br />
+      <sub>Redis</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>🚀 Devops</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-IONOS-003D8F?style=for-the-badge&logo=ionos&logoColor=white" height="55" alt="IONOS" /><br />
+      <sub>IONOS</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="55" alt="AWS" /><br />
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="55" alt="Docker" /><br />
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="55" alt="Google Cloud" /><br />
+      <sub>Google Cloud</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>🎨 Design Software</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="55" alt="Figma" /><br />
+      <sub>Figma</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>🤖 Automation</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="55" alt="n8n" /><br />
+      <sub>n8n</sub>
+    </td>
+  </tr>
+</table>
 
 <h3>🛠️ Dev Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code badge" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira badge" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="55" alt="VS Code" /><br />
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="55" alt="IntelliJ" /><br />
+      <sub>IntelliJ</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="55" alt="Git" /><br />
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="55" alt="GitHub" /><br />
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>📋 Project Management Tools</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="55" alt="Jira" /><br />
+      <sub>Jira</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>💬 Communication Tools</h3>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="55" alt="Discord" /><br />
+      <sub>Discord</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white" height="55" alt="Zoom" /><br />
+      <sub>Zoom</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" height="55" alt="Microsoft Teams" /><br />
+      <sub>Teams</sub>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -116,6 +348,9 @@
   Replace <code>YOUR_GITHUB_USERNAME</code> with your real GitHub username.
 </p>
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Olivierentwicklung&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olivierentwicklung" alt="Profile Trophy" /></a> </p>
 <p>
   <img
     src="https://github-readme-stats.vercel.app/api?username=Olivierentwicklung&show_icons=true&theme=default"
@@ -130,12 +365,18 @@
   />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olivierentwicklung&" alt="Contributions" /></p>
+
 ---
 
-<h2>🔹 Contact / Links</h2>
+<h2>🔹 Connect with me:</h2>
 
 <ul>
   <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/olivier-lowe-04b026284/">Olivier Lowe</a></li>
   <li>🌐 <strong>Portfolio:</strong> <a href="https://olivierlowe.com">olivierlowe.com</a></li>
   <li>📫 <strong>Email:</strong> <a href="mailto:olivierentwicklung@gmail.com">Send Me a message</a></li>
 </ul>
+
+---
+
+
