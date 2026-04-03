@@ -32,25 +32,70 @@
   <li><strong>Currently learning:</strong> How to integrate a Python backend into an Nx full-stack monorepository</li>
 </ul>
 
-<h3>Former Employers</h3>
+<h3>🎓 Education</h3>
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/🎓%20Study-1E3A8A?style=for-the-badge" height="50" alt="Study" /><br />
+      <sub>2013 – 2018</sub>
+    </td>
+    <td>
+      <b>Hochschule Pforzheim</b><br />
+      <sub>Technische Informatik</sub><br />
+      Bachelor of Engineering
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">⬇️</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/💻%20Training-0F766E?style=for-the-badge" height="50" alt="Training" /><br />
+      <sub>Mar 2026 – Aug 2026</sub>
+    </td>
+    <td>
+      <b>Developer Akademie GmbH</b><br />
+      <sub>Weiterbildung zum Softwareentwickler</sub><br />
+      Schwerpunkt: Backend Web Development
+    </td>
+  </tr>
+</table>
+
+<h3>💼 Former Employers</h3>
 
 <ul>
-  <li>HS Pforzheim</li>
-  <li>Data Analyse Pforzheim</li>
-  <li>HCM </li>
-  <li>Freenet DLS Gmbh</li>
-  <li>Doctor Tobit Remote</li>
+  <li>Hochschule Pforzheim</li>
+  <li>HCM CustomerManagement GmbH</li>
+  <li>Freenet DLS GmbH</li>
+  <li>Dr. med. vet. Tobit SARL </li>
 </ul>
 
-<h3>Hobbies</h3>
 
-<ul>
-  <li>Programing</li>
-  <li>Fitness</li>
-  <li>Cook</li>
-  <li>Read</li>
-  <li>Dance</li>
-</ul>
+<h3>🎯 Hobbies</h3>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      💻<br /><sub>Programming</sub>
+    </td>
+    <td align="center" width="120">
+      🏋️<br /><sub>Fitness</sub>
+    </td>
+    <td align="center" width="120">
+      🍳<br /><sub>Cooking</sub>
+    </td>
+    <td align="center" width="120">
+      📚<br /><sub>Reading</sub>
+    </td>
+    <td align="center" width="120">
+      💃<br /><sub>Dancing</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
