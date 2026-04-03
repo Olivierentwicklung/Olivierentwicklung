@@ -111,21 +111,21 @@
 ---
 
 <h2>🔹 GitHub Stats</h2>
-
+<!--
 <p>
   Replace <code>YOUR_GITHUB_USERNAME</code> with your real GitHub username.
 </p>
-
+-->
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"
+    src="https://github-readme-stats.vercel.app/api?username=Olivierentwicklung&show_icons=true&theme=default"
     alt="GitHub Stats"
   />
 </p>
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierentwicklung&layout=compact&theme=default"
     alt="Top Languages"
   />
 </p>
