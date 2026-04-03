@@ -13,24 +13,24 @@
     width="100%"
     style="max-width: 900px; border-radius: 12px;"
   />
-
-  <p>
-    I've been passionate about programming since a young age, and I love making people's lives easier and more beautiful through web development.
-  </p>
-
- <h4 style="color:green;"> My focus is to find simple ways to make complex things practical, elegant, and enjoyable for users.</h4>
  
 </div>
 
 ---
 
 <h2>🔹 About Me</h2>
+ <p>
+    I've been passionate about programming since a young age, and I love making people's lives easier and more beautiful through web development.
+  </p>
 
-<ul>
-  <li><strong>Specialization:</strong> Full Stack Architecture — Frontend (Angular) &amp; Backend (Python)</li>
-  <li><strong>Currently working on:</strong> Improving my backend knowledge with Python</li>
-  <li><strong>Currently learning:</strong> How to integrate a Python backend into an Nx full-stack monorepository</li>
-</ul>
+ <h3> My focus is to find simple ways to make complex things practical, elegant, and enjoyable for users.</h3>
+ 
+<h3>🎯 Current Activities</h3>
+  <ul>
+    <li><strong>Specialization:</strong> Full Stack Architecture — Frontend (Angular) &amp; Backend (Python)</li>
+    <li><strong>Currently working on:</strong> Improving my backend knowledge with Python</li>
+    <li><strong>Currently learning:</strong> How to integrate a Python backend into an Nx full-stack monorepository</li>
+  </ul>
 
 <h3>🎓 Education</h3>
 
