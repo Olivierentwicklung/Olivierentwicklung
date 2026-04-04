@@ -8,7 +8,7 @@
   </h2>
 
   <img
-    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80"
+    src="https://github.com/Olivierentwicklung/Olivierentwicklung/blob/main/Olivier_Lowe_Monorepo_with_animations_release_1.gif"
     alt="Hero banner"
     width="100%"
     style="max-width: 900px; border-radius: 12px;"
