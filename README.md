@@ -159,6 +159,10 @@
       <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge" height="55" alt="PrimeNG" /><br />
       <sub>PrimeNG v21</sub>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="55" alt="Angular" /><br />
       <sub>Angular v21</sub>
