@@ -151,7 +151,7 @@
       <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="55" alt="Sass" /><br />
       <sub>Sass</sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="180">
       <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="55" alt="Tailwind CSS" /><br />
       <sub>Tailwind CSS v4</sub>
     </td>
