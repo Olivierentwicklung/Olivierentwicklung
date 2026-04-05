@@ -228,10 +228,6 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/TDD-111111?style=for-the-badge" height="55" alt="TDD" /><br />
-      <sub>TDD</sub>
-    </td>
-    <td align="center" width="120">
       <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="55" alt="Jest" /><br />
       <sub>Jest</sub>
     </td>
