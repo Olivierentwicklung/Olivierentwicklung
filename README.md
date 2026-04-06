@@ -24,7 +24,7 @@
 
  <h3> My focus is to find simple ways to make complex things practical, elegant, and enjoyable for users.</h3>
  
-<h3>🎯 Current Activities</h3>
+<h3>🎯 Current Activities (2026)</h3>
   <ul>
     <li><strong>Specialization:</strong> Full Stack Architecture — Frontend (Angular) &amp; Backend (Python)</li>
     <li><strong>Currently working on:</strong> Improving my backend knowledge with Python</li>
