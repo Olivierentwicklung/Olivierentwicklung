@@ -67,10 +67,10 @@
 <h3>💼 Former Employers</h3>
 
 <ul>
-  <li>Hochschule Pforzheim</li>
-  <li>HCM CustomerManagement GmbH</li>
-  <li>Freenet DLS GmbH</li>
   <li>Dr. med. vet. Tobit SARL </li>
+  <li>Freenet DLS GmbH</li>
+  <li>HCM CustomerManagement GmbH</li>
+  <li>Hochschule Pforzheim</li>  
 </ul>
 
 
