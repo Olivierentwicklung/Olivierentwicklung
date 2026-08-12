@@ -414,7 +414,7 @@
     <td valign="top" width="50%">
       <h3>🚀 Coderr</h3>
       <p>
-      A modern freelance marketplace backend built with Django REST Framework.
+      A modern freelance marketplace.
       </p>
       <p>
         <a href="https://olivierentwicklung.github.io/coderr_frontend/">
