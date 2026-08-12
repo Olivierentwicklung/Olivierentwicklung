@@ -165,7 +165,7 @@
   <tr>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="55" alt="Angular" /><br />
-      <sub>Angular v21</sub>
+      <sub>Angular v22</sub>
     </td>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="55" alt="GraphQL Client" /><br />
@@ -193,10 +193,12 @@
       <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge" height="55" alt="REST API" /><br />
       <sub>REST API</sub>
     </td>
+    <!--
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="55" alt="GraphQL" /><br />
       <sub>GraphQL</sub>
     </td>
+    -->
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="55" alt="Postman" /><br />
       <sub>Postman</sub>
@@ -261,10 +263,12 @@
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="55" alt="MySQL" /><br />
       <sub>MySQL</sub>
     </td>
+    <!--
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="55" alt="MongoDB" /><br />
       <sub>MongoDB</sub>
     </td>
+    -->
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="55" alt="Redis" /><br />
       <sub>Redis</sub>
@@ -279,10 +283,12 @@
       <img src="https://img.shields.io/badge/-IONOS-003D8F?style=for-the-badge&logo=ionos&logoColor=white" height="55" alt="IONOS" /><br />
       <sub>IONOS</sub>
     </td>
+    <!--
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="55" alt="AWS" /><br />
       <sub>AWS</sub>
     </td>
+    -->
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="55" alt="Docker" /><br />
       <sub>Docker</sub>
@@ -303,7 +309,7 @@
     </td>
   </tr>
 </table>
-
+<!--
 <h3>🤖 Automation</h3>
 <table>
   <tr>
@@ -313,7 +319,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <h3>🛠️ Dev Tools</h3>
 <table>
   <tr>
@@ -331,7 +337,7 @@
     </td>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="55" alt="GitHub" /><br />
-      <sub>GitHub</sub>
+      <sub>GitHub Actions</sub>
     </td>
   </tr>
 </table>
