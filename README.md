@@ -404,11 +404,9 @@
         My personal developer portfolio showcasing my experience,
         projects, technical skills, and software development approach.
       </p>
-
       <p>
         <strong>Tech:</strong> Angular · TypeScript · Tailwind CSS
       </p>
-
       <a href="https://www.olivierlowe.com">
         🌐 View Live Website
       </a>
