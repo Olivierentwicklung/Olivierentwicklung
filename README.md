@@ -413,7 +413,6 @@
         🌐 View Live Website
       </a>
     </td>
-
     <td valign="top" width="50%">
       <h3>🚀 Coderr</h3>
       <p>
