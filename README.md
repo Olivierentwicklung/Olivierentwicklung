@@ -380,9 +380,53 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>🐍 python</h3>
+      <h3>🐍 Python Backend</h3>
       <p>
-        A real backend project focused on building practical server-side solutions with Python.
+        A backend project focused on building practical server-side solutions with Python.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>🌐 Live Websites</h2>
+
+<p>
+  Selected projects that are deployed and publicly accessible.
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💼 Portfolio Website</h3>
+      <p>
+        My personal developer portfolio showcasing my experience,
+        projects, technical skills, and software development approach.
+      </p>
+
+      <p>
+        <strong>Tech:</strong> Angular · TypeScript · Tailwind CSS
+      </p>
+
+      <a href="https://www.olivierlowe.com">
+        🌐 View Live Website
+      </a>
+    </td>
+
+    <td valign="top" width="50%">
+      <h3>🚀 Coderr</h3>
+      <p>
+      A modern freelance marketplace backend built with Django REST Framework.
+      </p>
+      <p>
+        <a href="https://olivierentwicklung.github.io/coderr_frontend/">
+          🌐 Live Demo
+        </a>
+        &nbsp;•&nbsp;
+        <a href="https://github.com/Olivierentwicklung/coderr_backend.git">
+          💻 Source Code
+        </a>
       </p>
     </td>
   </tr>
