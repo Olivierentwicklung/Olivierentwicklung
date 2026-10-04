@@ -35,7 +35,7 @@ I care about making complex requirements understandable—for the people using t
 
 A web application for a freelance marketplace, with separate frontend and backend repositories.
 
-[Live frontend demo](https://olivierentwicklung.github.io/coderr_frontend/) · [Backend source](https://github.com/Olivierentwicklung/coderr_backend)
+🌐 [Live frontend demo](https://olivierentwicklung.github.io/coderr_frontend/) ·  💻 [Backend source](https://github.com/Olivierentwicklung/coderr_backend)
 
 ### Angular monorepository — Frontend architecture
 
@@ -88,6 +88,35 @@ The books follow a principle that also guides my development work: **Pressure be
 | --- | --- | --- |
 | Completed professional training — Backend Web Development | Developer Akademie GmbH | March–August 2026 |
 | Bachelor of Engineering — Computer Engineering (Technische Informatik) | Hochschule Pforzheim | September 2013–October 2018 |
+
+---
+
+<h2>🔹 GitHub Stats</h2>
+<!--
+<p>
+  Replace <code>YOUR_GITHUB_USERNAME</code> with your real GitHub username.
+</p>
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Olivierentwicklung&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olivierentwicklung" alt="Profile Trophy" /></a> </p>
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Olivierentwicklung&show_icons=true&theme=default"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierentwicklung&layout=compact&theme=default"
+    alt="Top Languages"
+  />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olivierentwicklung&" alt="Contributions" /></p>
+
+---
 
 ## Let's connect
 
