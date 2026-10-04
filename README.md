@@ -1,10 +1,19 @@
 <div align="center">
 
-# Olivier Lowe
+<p align="center">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=36&amp;duration=2500&amp;pause=3500&amp;color=3278C6&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Hi%2C+I%27m+Olivier.+%F0%9F%91%8B"
+    alt="Hi, I'm Olivier. 👋"
+    width="600"
+  />
+</p>
 
-### Software Developer · Python & Django · Angular & TypeScript
+# Building software around the business.
 
-Building practical web applications with clear business rules, reliable APIs, and maintainable code.
+## Software Developer · Python & Django · Angular & TypeScript
+
+### Building practical web applications with clear business rules, reliable APIs, and maintainable code.
 
 [Portfolio](https://www.olivierlowe.com) · [LinkedIn](https://www.linkedin.com/in/olivier-lowe-04b026284/) · [Email](mailto:olivierentwicklung@gmail.com)
 
