@@ -102,14 +102,14 @@ The books follow a principle that also guides my development work: **Pressure be
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olivierentwicklung" alt="Profile Trophy" /></a> </p>
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Olivierentwicklung&show_icons=true&theme=default"
+    src="./profile/stats.svg"
     alt="GitHub Stats"
   />
 </p>
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierentwicklung&layout=compact&theme=default"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
