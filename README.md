@@ -107,8 +107,9 @@ The books follow a principle that also guides my development work: **Pressure be
 </p>
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Olivierentwicklung&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olivierentwicklung" alt="Profile Trophy" /></a> </p>
+-->
 <p>
   <img
     src="./profile/stats.svg"
