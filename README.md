@@ -15,7 +15,7 @@
 
 ### Building practical web applications with clear business rules, reliable APIs, and maintainable code.
 
-[Portfolio](https://www.olivierlowe.com) · [LinkedIn](https://www.linkedin.com/in/olivier-lowe-04b026284/) · [Email](mailto:olivierentwicklung@gmail.com)
+[Portfolio](https://www.olivierlowe.com) · [LinkedIn](https://www.linkedin.com/in/eng-olivier-lowe-04b026284/) · [Email](mailto:olivierentwicklung@gmail.com)
 
 <img
   src="https://github.com/Olivierentwicklung/Olivierentwicklung/blob/main/Olivier_Lowe_Monorepo_with_animations_release_1.gif"
@@ -132,6 +132,6 @@ The books follow a principle that also guides my development work: **Pressure be
 
 I'm interested in Python backend and full-stack opportunities where I can contribute my Angular experience and continue developing reliable backend systems.
 
-[Explore my portfolio](https://www.olivierlowe.com) · [Connect on LinkedIn](https://www.linkedin.com/in/olivier-lowe-04b026284/) · [Send me an email](mailto:olivierentwicklung@gmail.com)
+[Explore my portfolio](https://www.olivierlowe.com) · [Connect on LinkedIn](https://www.linkedin.com/in/eng-olivier-lowe-04b026284) · [Send me an email](mailto:olivierentwicklung@gmail.com)
 
 Outside software development, I enjoy fitness, cooking, reading, and dancing.
