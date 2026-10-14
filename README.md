@@ -30,6 +30,8 @@
 
 ## About me
 
+I'm currently open to new opportunities in software development, particularly **Python/Django backend** roles. Recruiters and hiring teams are welcome to contact me.
+
 I'm a software developer with more than four years of professional development experience, including Angular frontend development at Freenet DLS GmbH.
 
 My work has included building and maintaining frontend applications, coordinating requirements with backend developers, and contributing to the structure of a frontend monorepository. I bring that experience to Python backend development, supported by completed backend training at Developer Akademie and practical Django projects.
