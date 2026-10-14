@@ -30,7 +30,7 @@
 
 ## About me
 
-I'm currently open to new opportunities in software development, particularly **Python/Django backend** roles. Recruiters and hiring teams are welcome to contact me.
+I'm currently open to new opportunities as **a Python / Django Backend Developer**. Recruiters and hiring teams are welcome to contact me.
 
 I'm a software developer with more than four years of professional development experience, including Angular frontend development at Freenet DLS GmbH.
 
